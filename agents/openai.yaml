@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibe 知识大赏视频"
+  short_description: "用 Remotion 分三阶段制作无旁白中文字幕知识短片"
+  default_prompt: "使用 $vibe-knowledge-video 帮我做一条知识短片，每个阶段都和我确认。"
